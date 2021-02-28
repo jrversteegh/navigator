@@ -1,1 +1,21 @@
 gps
+cython
+pybind11
+aiohttp
+python-dotenv
+python-dateutil
+numpy
+scipy
+appdirs
+git+https://github.com/vesseliq/geofun2@master#egg=geofun2
+
+# UI
+git+https://github.com/vesseliq/flexx@master#egg=flexx
+jupyter
+matplotlib
+
+# For testing
+pytest
+pytest-asyncio
+flake8
+objgraph
