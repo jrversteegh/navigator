@@ -1,1 +1,5 @@
+*.pyc
+*.log
+__pycache__
 /venv
+/tests/logs
